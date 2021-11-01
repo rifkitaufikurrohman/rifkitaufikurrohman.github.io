@@ -1,0 +1,50 @@
+body {
+    font-family: 'Abel';
+    margin: 0;
+    padding: 0;
+    background-color: rgb(15, 96, 161);
+    height: 100%;
+    /* overflow: hidden; */
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+main {
+    margin: 20px auto;
+    position: auto;
+    width: 90%;
+    height: 590px !important;
+    background-color: #ddd;
+    border-radius: 15px;
+}
+
+h3 {
+    text-align: center;
+}
+
+img {
+    margin: auto 90px;
+    height: 520px;
+
+}
+
+footer {
+    color: white;
+}
+
+.text-body {
+    margin-left: 550px;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+}
